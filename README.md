@@ -19,3 +19,8 @@ Run command:
 
 `python main.py`
 
+- Eval
+
+Run command:
+
+`python eval.py`
