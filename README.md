@@ -9,9 +9,16 @@
 
 ## Quick start:
 
+- Data preprocess
+
+Run following command:
+
+You can use bash `tools/download.sh` to download the data
+and then use `bash tools/process.sh ` to process the data
+
 - Dataset
 
-All dataset under the directory of `data`, We utilize the glove embedding, please download the *glove.6b.300d.txt* and put it in directory of `data/embedding`.
+All dataset under the directory of `data`, We utilize the glove embedding, please download the *glove.6b.300d.txt*
 
 - Training
 
