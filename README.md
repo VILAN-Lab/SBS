@@ -1,6 +1,6 @@
 # Suppressing Biased Samples
 
-<!--##### Code for paper "Suppressing Biased Samples for Robust VQA", TMM 2021.-->
+##### Code for paper "Suppressing Biased Samples for Robust VQA", TMM 2021.
 
 ## Prerequisites
 
